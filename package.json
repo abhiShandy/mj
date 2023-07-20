@@ -1,0 +1,14 @@
+{
+  "name": "mj",
+  "version": "1.0.0",
+  "description": "midjourney client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
